@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lo que he aprendido hasta ahora en LaunchX</title>
+      <link>https://example.com/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/post_1/</guid>
+      <description>Mi aprendizaje durante LaunchX ha sido definitivamente un reto ya que no tengo ningun tipo de background en tecnología. Sin embargo los Mission Commanders y mis compañeros de tripulación han sido de mucha ayuda durante todo el proceso.4
+Los puntos que más me han gustado durante el proceso han sido:
+ Conocer a mis Mission Commanders que me inspiran a ser mejor Poder conectar con mis compañeros de tripulación, sobretodo checar las discussions y que se forme una gran comunidad CSS  Los puntos que más se me han dificultado:</description>
+    </item>
+    
     <item>
       <title>La Cultura de un Desarrollador de Software</title>
       <link>https://example.com/posts/intro/</link>
