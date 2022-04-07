@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Cultura de un Desarrollador de Software</title>
+      <link>https://example.com/posts/intro/</link>
+      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
+      
+      <guid>https://example.com/posts/intro/</guid>
+      <description>¡Hola!
+Para mi la cultura de un profesional de software se basa en lo siguiente:
+ Trabajo en equipo Respeto Dedicación Honestidad  Esto es muy importante para mi</description>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>https://example.com/pages/about/</link>
